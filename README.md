@@ -1,6 +1,6 @@
 # atividade-py-2
 
-Projeto em Python para calcular descontos de compras de acordo com o valor total da compra.
+Projeto em Python para calcular descontos em compras conforme o valor total da compra.
 
 ## Objetivo
 Este programa recebe o valor da compra e aplica um percentual de desconto conforme a faixa de preço:
@@ -9,12 +9,19 @@ Este programa recebe o valor da compra e aplica um percentual de desconto confor
 - Entre R$ 200,00 e R$ 299,99 → 10% de desconto
 - R$ 300,00 ou mais → 15% de desconto
 
-## Arquivo principal
-- `Untitled-1.py`
+## Arquivos do projeto
+- `Untitled-1.py` — versão principal do cálculo de descontos
+- `desconto_loja.py` — segunda versão do código com estrutura semelhante e organização melhor
 
 ## Como executar
 ```bash
 python Untitled-1.py
+```
+
+Ou:
+
+```bash
+python desconto_loja.py
 ```
 
 ## Exemplo de saída
