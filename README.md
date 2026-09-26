@@ -3,9 +3,13 @@
 Projeto simples em Python para calcular descontos na compra conforme o valor total.
 
 ## Funcionalidade
-- Se a compra for menor que R$ 200,00: desconto de 5%
-- Se for entre R$ 200,00 e R$ 299,99: desconto de 10%
-- Se for igual ou maior que R$ 300,00: desconto de 15%
+- Compra menor que R$ 200,00: desconto de 5%
+- Compra entre R$ 200,00 e R$ 299,99: desconto de 10%
+- Compra de R$ 300,00 ou mais: desconto de 15%
+
+## Arquivo principal
+O código principal está em:
+- `Untitled-1.py`
 
 ## Como executar
 ```bash
